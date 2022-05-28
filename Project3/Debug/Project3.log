@@ -1,0 +1,14 @@
+﻿  Project3.c
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\won37\source\repos\Project3\Project3\Project3.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(135,19): warning C4013: 'sqrt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(135,1): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(199,43): warning C4133: '=': 'float *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(203,29): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(209,27): warning C4133: '함수': 'int *'과(와) 'float *' 사이의 형식이 호환되지 않습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(209,31): warning C4133: '=': 'float *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(211,20): warning C4133: '함수': 'int **'과(와) 'float **' 사이의 형식이 호환되지 않습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(211,27): warning C4133: '=': 'float **'과(와) 'int **' 사이의 형식이 호환되지 않습니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(215,11): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\won37\source\repos\Project3\Project3\Project3.c(197,1): warning C4133: '초기화 중': 'float **'과(와) 'int **' 사이의 형식이 호환되지 않습니다.
+  Project3.vcxproj -> C:\Users\won37\source\repos\Project3\Debug\Project3.exe
